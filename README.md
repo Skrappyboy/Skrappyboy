@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Skrappyboy
-- 👀 I’m interested in bithes
-- 🌱 I’m currently learning man
-- 💞️ I’m looking to collaborate on war crimes
-- 📫 How to reach me :DONT 
+- 👀 I’m interested in Motion Design and Video Games
+- 🌱 I’m currently learning
+- 📫 How to reach me : Instagram and Linkedin 
+This is my portfolio https://henrybdano.wixsite.com/henry-dano
 
 <!---
 Skrappyboy/Skrappyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
